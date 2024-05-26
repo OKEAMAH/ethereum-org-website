@@ -34,7 +34,7 @@
     "@socialgouv/matomo-next": "^1.8.0",
     "embla-carousel-react": "^7.0.0",
     "ethereum-blockies-base64": "^1.0.2",
-    "framer-motion": "^10.13.0",
+    "framer-motion": "^11.1.7",
     "gray-matter": "^4.0.3",
     "htmr": "^1.0.2",
     "i18next": "^23.6.0",
