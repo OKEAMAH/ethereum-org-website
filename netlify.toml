@@ -37,11 +37,3 @@
     path = "en/developers/docs/intro-to-ethereum/"
   [[plugins.inputs.audits]]
     path = "en/developers/tutorials/creating-a-wagmi-ui-for-your-contract/"
-
-[functions]
-  included_files = [
-    "./src/intl/**/*",
-    "!./public/**/*",
-    "!./node_modules/@swc/core-linux-x64-musl/**/*",
-    "!./node_modules/@swc/core-linux-x64-gnu/**/*",
-  ]

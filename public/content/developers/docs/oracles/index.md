@@ -274,7 +274,7 @@ Some decentralized oracle networks require participants to vote or stake on the 
 
 Nodes whose answers deviate from the majority answer are penalized by having their tokens distributed to others who provide more correct values. Forcing nodes to provide a bond before providing data incentivizes honest responses since they are assumed to be rational economic actors intent on maximizing returns.
 
-Staking/voting also protects decentralized oracles from “Sybil attacks” where malicious actors create multiple identities to game the consensus system. However, staking cannot prevent “freeloading” (oracle nodes copying information from others) and “lazy validation” (oracle nodes following the majority without verifying the information themselves).
+Staking/voting also protects decentralized oracles from [Sybil attacks](/glossary/#sybil-attack) where malicious actors create multiple identities to game the consensus system. However, staking cannot prevent “freeloading” (oracle nodes copying information from others) and “lazy validation” (oracle nodes following the majority without verifying the information themselves).
 
 ##### Schelling point mechanisms
 
@@ -401,6 +401,8 @@ There are multiple oracle applications you can integrate into your Ethereum dapp
 **[Pyth Network](https://pyth.network/)** - _The Pyth network is a first-party financial oracle network designed to publish continuous real-world data on-chain in a tamper-resistant, decentralized, and self-sustainable environment._
 
 **[API3 DAO](https://www.api3.org/)** - _API3 DAO is delivering first-party oracle solutions that deliver greater source transparency, security and scalability in a decentralized solution for smart contracts_
+
+**[Supra](https://supra.com/)** - A vertically integrated toolkit of cross-chain solutions that interlink all blockchains, public (L1s and L2s) or private (enterprises), providing decentralized oracle price feeds that can be used for on-chain and off-chain use-cases. 
 
 ## Further reading {#further-reading}
 
