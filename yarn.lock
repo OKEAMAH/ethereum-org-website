@@ -3493,10 +3493,10 @@
   resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.27.8.tgz#6667fac16c436b5434a387a34dedb013198f6e6e"
   integrity sha512-+Fj43pSMwJs4KRrH/938Uf+uAELIgVBmQzg/q1YG10djyfA3TnrU8N8XzqCh/okZdszqBQTZf96idMfE5lnwTA==
 
-"@socialgouv/matomo-next@^1.8.0":
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/@socialgouv/matomo-next/-/matomo-next-1.8.0.tgz#1dee455a440b84bc135381a85fef33d000698222"
-  integrity sha512-00EdsbW0u/VrKFa7DfVjnXV4oXA6Ag3kkCisSL2nFseRQhEsds5T8xsAgvNQAtiMW9AR6Mz3TNZt7A2/mIb9kA==
+"@socialgouv/matomo-next@^1.9.0":
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/@socialgouv/matomo-next/-/matomo-next-1.9.0.tgz#84622225bd7074651a92796cb86522a1e8c30e08"
+  integrity sha512-emanE7vFQXkfdqELcoLXnXRVnQrbSNnhqcyu1qnlBR3xt0cmkDMfLoH8Z7phNWgT2msdNFoVnXxp+3I4hAhw7g==
 
 "@storybook/addon-actions@7.6.6":
   version "7.6.6"

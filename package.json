@@ -31,7 +31,7 @@
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@radix-ui/react-navigation-menu": "^1.1.4",
-    "@socialgouv/matomo-next": "^1.8.0",
+    "@socialgouv/matomo-next": "^1.9.0",
     "embla-carousel-react": "^7.0.0",
     "ethereum-blockies-base64": "^1.0.2",
     "framer-motion": "^10.13.0",
