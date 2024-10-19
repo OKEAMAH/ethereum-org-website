@@ -27,7 +27,7 @@
   "dependencies": {
     "@chakra-ui/react": "^2.8.0",
     "@crowdin/crowdin-api-client": "^1.35.0",
-    "@docsearch/react": "^3.6.1",
+    "@docsearch/react": "^3.6.2",
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
     "@radix-ui/react-navigation-menu": "^1.2.0",
